@@ -2,7 +2,7 @@
 
 ![Cobol](https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/abed0aa2-5efa-4ff1-a76e-7c1f00d91618)
 
-<p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img width="500" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/abed0aa2-5efa-4ff1-a76e-7c1f00d91618" alt="C-Sharp" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width:10%;"></a>
+<p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img width="200" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/abed0aa2-5efa-4ff1-a76e-7c1f00d91618" alt="C-Sharp" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width:10%;"></a>
 
 
 # Projenin Amacı
