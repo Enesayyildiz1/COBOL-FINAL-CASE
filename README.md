@@ -9,11 +9,10 @@
 <a href="https://autofac.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/660a4e0e53571f8f593a56df74573cb8f09777268a87305057363a9b38a3dd59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4175746f6661632d3030343838303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e75676574266c6f676f436f6c6f723d7768697465" alt="Autofac" data-canonical-src="https://img.shields.io/badge/Autofac-004880?style=for-the-badge&amp;logo=nuget&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://fluentvalidation.net/" rel="nofollow"><img src="https://camo.githubusercontent.com/6deba73d71845daec484b10b754dc0c648cdd13fb24480c38e52becf608f215f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75656e7425323056616c69646174696f6e2d3030343838303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e75676574266c6f676f436f6c6f723d7768697465" alt="Fluent-Validation" data-canonical-src="https://img.shields.io/badge/Fluent%20Validation-004880?style=for-the-badge&amp;logo=nuget&amp;logoColor=white" style="max-width:100%;"></a></p>
 
-# Katmanlar
-* ### Proje Business, DataAccess, Entities, ConsoleUI, Core, WebAPI olmak üzere 6 katmandan oluşmaktadır.
-
-## Solution Explorer
-![Solution Explorer](https://user-images.githubusercontent.com/66443194/143624386-61666ca8-2fd3-4b3d-b4a0-077a87c20e65.PNG)
+# Projenin Amacı
+* ### Proje bir VSAM dosyasında ki verileri READ, UPDATE, DELETE ve ADD fonksiyonları uygular.
+## ADD Fonksiyonu
+<img width="500" alt="Screenshot 2023-07-16 at 17 01 38" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/0bb50e58-3f74-4605-8e73-496596321120">
 
 # Business Katmanı
 Business katmanında iş kodları yer alır.
