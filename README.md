@@ -1,5 +1,6 @@
 # AKBANK COBOL PROJECT - PATIKA.DEV
 
+![Cobol](https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/abed0aa2-5efa-4ff1-a76e-7c1f00d91618)
 
 <p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="C-Sharp" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://dotnet.microsoft.com/apps/aspnet" rel="nofollow"><img src="https://camo.githubusercontent.com/d2eedef86b5c7700ce36b271700d22a225ed80deb882f1bc627b0b1d3543dd3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4153502e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465" alt="Asp-net" data-canonical-src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" style="max-width:100%;"></a>
