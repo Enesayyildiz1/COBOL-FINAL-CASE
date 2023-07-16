@@ -11,54 +11,20 @@
 # Projenin Amacı
 * ### Proje bir VSAM dosyasında ki verileri READ, UPDATE, DELETE ve ADD fonksiyonları uygular.
 ## ADD Fonksiyonu
+# Sabit bir değişkeni VSAM dosyasına ekler.
 <img width="500" alt="Screenshot 2023-07-16 at 17 01 38" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/0bb50e58-3f74-4605-8e73-496596321120">
 
 ## UPDATE Fonksiyonu
+# Bu fonksiyonda kullanıcının isim verisinde eğer boşluk varsa boşlukları temizler ve soyisimdeki E harflerini I ve A harflerini E yapar ve VSAM dosyasını günceller.
 <img width="475" alt="Screenshot 2023-07-16 at 17 09 05" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/16c39dd4-fc8b-4df0-aee0-0faddc13f68e">
 
 ## DELETE Fonksiyonu
+# Bu fonksiyonda input dosyasında verilen id ye göre VSAM dosyasındaki veriyi siler.
 <img width="512" alt="Screenshot 2023-07-16 at 17 08 05" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/eed8bb2c-b759-440a-acf8-9d7cd9065013">
 
 ## READ Fonksiyonu
+# Bu fonksiyonda input dosyasında verilen id ye göre VSAM dosyasındaki veriyi okur.
 <img width="550" alt="Screenshot 2023-07-16 at 17 08 23" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/41521102-daa7-4224-a1e8-40bca177e9fd">
-
-# Business Katmanı
-Business katmanında iş kodları yer alır.
-Bu katmanda abstract(interface) ve concrete(class) klasörleri olmak üzere 2 ana klasörden oluşmaktadır. <br/>
-![Business](https://user-images.githubusercontent.com/66443194/143625311-f7116d47-cfcf-45c6-82f7-0d356b708cc0.PNG)
-
-# Business Katmanı Klasörleri
-Abstract, Business, Business Aspects, Concrete, Constants, DependencyResolvers, Autofac, ValidationRules Klasörleri
-![BusinessLayer](https://user-images.githubusercontent.com/66443194/143625323-21e06956-b0b2-40d0-a443-4d5f8a8b1da5.PNG) <br/>
-
-
-# Core Katmanı
-Bir framework katmanı olan Core Katmanı'nda DataAccess, Entities, Utilities olmak üzere 3 adet klasör bulunmaktadır.DataAccess klasörü DataAccess Katmanı ile ilgili nesneleri, Entities klasörü Entities katmanı ile ilgili nesneleri tutmak için oluşturulmuştur. Core katmanının .Net Core ile hiçbir bağlantısı yoktur.Oluşturulan core katmanında ortak kodlar tutulur. Core katmanı ile, kurumsal bir yapıda, alt yapı ekibi ilgilenir.
-![CoreLayer](https://user-images.githubusercontent.com/66443194/143625313-73ced31f-f07d-42c8-995f-121a82178617.PNG) <br/>
-![CoreAspect](https://user-images.githubusercontent.com/66443194/143625316-790db374-7bce-4aba-a2b9-700087ffad12.PNG) <br/>
-![CoreUtilities](https://user-images.githubusercontent.com/66443194/143625318-ce8e90a4-fb64-4a25-915f-d06836231ca2.PNG) <br/>
-
-
-# Data Access Katmanı
-Veritabanı CRUD işlemleri gerçekleştirmek için oluşturulan Data Access Katmanı'nda Abstract ve Concrete olmak üzere iki adet klasör bulunmaktadır.Abstract klasörü soyut nesneleri, Concrete klasörü ise somut nesneleri tutmak için oluşturulmuştur. <br/>
-![DataAccessLayer](https://user-images.githubusercontent.com/66443194/143625319-889044a4-1c60-49b2-b5f9-bc6294a18de3.PNG) <br/>
-
-
-## Entities Katmanı
-
-Veritabanı nesneleri için oluşturulmuş Entities Katmanı'nda Abstract ve Concrete olmak üzere iki adet klasör bulunmaktadır.Abstract klasörü soyut nesneleri, Concrete klasörü somut nesneleri tutmak için oluşturulmuştur. <br/>
-![EntitiesLayer](https://user-images.githubusercontent.com/66443194/143625321-4a9a3b41-7ed3-4c32-8a41-71b0dbcb6f00.PNG)  <br/>
-
-## UIConsole Katmanı
-Kodların doğru çalıştığını görmek için kullandığımız katman test katmanı da diyebiliriz. <br/><br/>
-![UIConsoleLayer](https://user-images.githubusercontent.com/76704724/115159792-8bc22c00-a09d-11eb-8265-31fdeede771c.PNG) <br/>
-
-
-## WepAPI Katmanı
-Tüm kodların birleşip web sayfasına yansıtıldığı katmandır <br/>
-![WebApiLayer](https://user-images.githubusercontent.com/66443194/143625322-1c40ee6d-0c75-442a-a7b1-9f2bc36da472.PNG) <br/>
-<details>
-  <summary>Models</summary>
   
 ### Cars
 
