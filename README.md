@@ -13,6 +13,15 @@
 ## ADD Fonksiyonu
 <img width="500" alt="Screenshot 2023-07-16 at 17 01 38" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/0bb50e58-3f74-4605-8e73-496596321120">
 
+## UPDATE Fonksiyonu
+<img width="475" alt="Screenshot 2023-07-16 at 17 09 05" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/16c39dd4-fc8b-4df0-aee0-0faddc13f68e">
+
+## DELETE Fonksiyonu
+<img width="512" alt="Screenshot 2023-07-16 at 17 08 05" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/eed8bb2c-b759-440a-acf8-9d7cd9065013">
+
+## READ Fonksiyonu
+<img width="550" alt="Screenshot 2023-07-16 at 17 08 23" src="https://github.com/Enesayyildiz1/COBOL-FINAL-CASE/assets/66443194/41521102-daa7-4224-a1e8-40bca177e9fd">
+
 # Business Katmanı
 Business katmanında iş kodları yer alır.
 Bu katmanda abstract(interface) ve concrete(class) klasörleri olmak üzere 2 ana klasörden oluşmaktadır. <br/>
